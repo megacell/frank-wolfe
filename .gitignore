@@ -1,0 +1,5 @@
+EquilibriumSolver/objs/*
+!EquilibriumSolver/objs/.gitkeep
+EquilibriumSolver/networks/*
+!EquilibriumSolver/networks/.gitkeep
+EquilibriumSolver/GEF
