@@ -7,7 +7,7 @@ Change the network and trips in EquilibriumFlow.cpp
 
 For the Braess network, the output should be:
 
-~ 	Tail 	Head 	: 	Volume 	Cost 	;
+	Tail 	Head 	: 	Volume 	Cost 	;
 	1 	3 	: 	4 	40 	;
 	1 	4 	: 	2 	52 	;
 	2 	3 	: 	0 	inf 	;
